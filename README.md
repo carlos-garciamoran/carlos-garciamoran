@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+<a href="https://github.com/carlos-garciamoran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-garciamoran&show_icons=true&line_height=35&count_private=true&theme=dark" alt="Carlos' GitHub stats" />
+</a>
 
 <!--
 **carlos-garciamoran/carlos-garciamoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
