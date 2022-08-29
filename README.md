@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋
+
+My name is Carlos.
+
+I'm an ambitious tinkerer with a passion for software, scalability, and values.
 
 <a href="https://github.com/carlos-garciamoran">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-garciamoran&show_icons=true&line_height=35&count_private=true&theme=dark" alt="Carlos' GitHub stats" />
