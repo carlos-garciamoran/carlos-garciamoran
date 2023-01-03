@@ -2,15 +2,22 @@
 
 My name is Carlos.
 
-I'm an ambitious tinkerer with a passion for software, scalability, and values.
+I am an ambitious tinkerer who likes building software and providing value.
+
+I'm currently working on an app to leverage media as a force for doing good. 🚀
+
+Outside of computers, I enjoy:
+- 🌲 exploring nature
+- 🌍 traveling the world
+- 🤝 meeting people doing cool stuff
 
 <a href="https://github.com/carlos-garciamoran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-garciamoran&show_icons=true&line_height=35&count_private=true&theme=dark" alt="Carlos' GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-garciamoran&show_icons=true&line_height=30&count_private=true&theme=dark" alt="Carlos' GitHub stats" />
 </a>
 
-<!--
-**carlos-garciamoran/carlos-garciamoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-garciamoran&layout=compact&theme=algolia" /> -->
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
