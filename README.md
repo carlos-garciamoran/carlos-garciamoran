@@ -2,13 +2,16 @@
 
 My name is Carlos.
 
-I am an ambitious tinkerer who likes building software and providing value.
+I am an ambitious tinkerer who likes building software to solve real problems.
 
-I'm currently working on an app to leverage media as a force for doing good. 🚀
+I have recently released TweetWidget on the AppStore. [Give it a try!](https://apps.apple.com/us/app/tweetwidget/id1671704240)
+
+I'm currently working on an app to leverage media as a force for doing good 🚀
 
 Outside of computers, I enjoy:
 - 🌲 exploring nature
 - 🌍 traveling the world
+- ♟️ playing chess
 - 🤝 meeting people doing cool stuff
 
 <a href="https://github.com/carlos-garciamoran">
