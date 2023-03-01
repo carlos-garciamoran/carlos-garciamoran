@@ -2,13 +2,14 @@
 
 My name is Carlos.
 
-I am an ambitious tinkerer who likes building software to solve real problems.
+I am a curious guy who likes building software to solve real problems.
 
-I have recently released TweetWidget on the AppStore. [Give it a try!](https://apps.apple.com/us/app/tweetwidget/id1671704240)
+Recently, I have been working on:
+- [TweetWidget](https://trytweetwidget.com) | Download on the [App Store 📲](https://apps.apple.com/us/app/tweetwidget/id1671704240)
+- CNCPT | an app which hacks on media usage to do good ⛰️
+- a co-housing platform 🚀
 
-I'm currently working on an app to leverage media as a force for doing good 🚀
-
-Outside of computers, I enjoy:
+Outside of computers, I enjoy
 - 🌲 exploring nature
 - 🌍 traveling the world
 - ♟️ playing chess
