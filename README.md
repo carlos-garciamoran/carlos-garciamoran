@@ -5,9 +5,9 @@ My name is Carlos.
 I am a curious guy who likes building software to solve real problems.
 
 Recently, I have been working on:
+- [CoLive](https://www.getcolive.com) | A housing search platform 🚀
 - [TweetWidget](https://trytweetwidget.com) | Download on the [App Store 📲](https://apps.apple.com/us/app/tweetwidget/id1671704240)
-- CNCPT | an app which hacks on media usage to do good ⛰️
-- a co-housing platform 🚀
+- CNCPT | an app which uses media as a means to do good ⛰️
 
 Outside of computers, I enjoy
 - 🌲 exploring nature
