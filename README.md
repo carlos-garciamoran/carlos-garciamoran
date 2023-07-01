@@ -6,8 +6,8 @@ I am a curious guy who likes building software to solve real problems.
 
 Recently, I have been working on:
 - [CoLive](https://www.getcolive.com) | The place to find your next sublet 🏠
-- [TweetWidget](https://trytweetwidget.com) | Get on the [App Store 📲](https://apps.apple.com/us/app/tweetwidget/id1671704240)
-- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973) | an app using media as a means to do good ⛰️
+- [TweetWidget](https://trytweetwidget.com) | See tweets from your home screen 🐦📲
+- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973) | App using media as a means to do good ⛰️
 
 Outside of computers, I enjoy
 - 🌲 exploring nature
