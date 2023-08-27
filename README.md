@@ -4,10 +4,12 @@ My name is Carlos.
 
 I am a curious guy who likes building software to solve real problems.
 
-Recently, I have been working on:
-- [CoLive](https://www.getcolive.com) | The place to find your next sublet 🏠
-- [TweetWidget](https://trytweetwidget.com) | See tweets from your home screen 🐦📲
+Currenly, I'm working on [subletgo.com](https://subletgo.com). Our vision is to make subletting easy, safe, and streamlined 🚀
+
+Some past projects include:
 - [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973) | App using media as a means to do good ⛰️
+- [CoLive](https://www.getcolive.com) | Browse sublets from Facebook housing groups 🏠
+- [TweetWidget](https://trytweetwidget.com) | See tweets from your home screen 🐦📲
 
 Outside of computers, I enjoy
 - 🌲 exploring nature
