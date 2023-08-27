@@ -1,7 +1,5 @@
 ## Hi 👋
 
-My name is Carlos.
-
 I am a curious guy who likes building software to solve real problems.
 
 Currenly, I'm working on [subletgo.com](https://subletgo.com). Our vision is to make subletting easy, safe, and streamlined 🚀
