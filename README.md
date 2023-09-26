@@ -1,11 +1,15 @@
 ## Hi 👋
 
-I am a curious guy who likes building software to solve real problems.
+I am a curious guy who likes building software to solve real problems. I use Next.js for developing websites and Expo for mobile apps.
 
-Currenly, I'm working on [subletgo.com](https://subletgo.com). Our vision is to make subletting easy, safe, and streamlined 🚀
+Currently, I'm building Mobilecn. Inspired by shadcn-ui's framework, our vision is to speed up mobile development. We are doing this by building ready-to-use components for React Native and SwiftUI. Try our libraries to build beautiful user interfaces:
+- [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui)
+- [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui)
+
+I have also co-founded [SubletGo](https://subletgo.com), a platform aiming to make subletting easy & safe 🚀
 
 Some past projects include:
-- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973) | App using media as a means to do good ⛰️
+- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973) | App using media as a means to do good (part of ) ⛰️
 - [CoLive](https://www.getcolive.com) | Browse sublets from Facebook housing groups 🏠
 - [TweetWidget](https://trytweetwidget.com) | See tweets from your home screen 🐦📲
 
