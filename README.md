@@ -2,7 +2,7 @@
 
 I am a curious guy who likes building software to solve real problems. I use Next.js for developing websites and Expo for mobile apps.
 
-Currently, I'm building Mobilecn UI. Our vision is to speed up mobile development. Inspired by shadcn-ui's framework, we are doing this by building ready-to-use components for React Native and SwiftUI. Try our libraries to build beautiful user interfaces:
+Currently, I'm building [Mobilecn UI](https://mobilecn.lol). Our vision is to speed up mobile development. Inspired by shadcn-ui's framework, we are doing this by building ready-to-use components for React Native and SwiftUI. Try our libraries to build beautiful user interfaces:
 - [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui)
 - [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui)
 
