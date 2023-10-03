@@ -2,16 +2,17 @@
 
 I am a curious guy who likes building software to solve real problems. I use Next.js for developing websites and Expo for mobile apps.
 
-Currently, I'm building [Mobilecn UI](https://mobilecn.lol). Our vision is to speed up mobile development. Inspired by shadcn-ui's framework, we are doing this by building ready-to-use components for React Native and SwiftUI. Try our libraries to build beautiful user interfaces:
-- [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui)
-- [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui)
+Currently, I'm building [Mobilecn UI](https://mobilecn.lol). Our vision is to make app development easier by crafting essential UI components. Inspired by shadcn/ui, we are crafting components for React Native and SwiftUI. Try our libraries to build beautiful user interfaces:
+- [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui) for React Native / Expo
+- [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui) for SwiftUI
 
 I have also co-founded [SubletGo](https://subletgo.com), a platform aiming to make subletting easy & safe 🚀
 
 Some past projects include:
-- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973) | App using media as a means to do good (part of ) ⛰️
-- [CoLive](https://www.getcolive.com) | Browse sublets from Facebook housing groups 🏠
-- [TweetWidget](https://trytweetwidget.com) | See tweets from your home screen 🐦📲
+- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973): app using media as a means to do good (part of The Concept Project) ⛰️
+- [CoLive](https://www.getcolive.com): browse sublets from Facebook housing groups 🏠
+- [TweetWidget](https://trytweetwidget.com): see tweets from your home screen 🐦📲
+- [Hermes](https://github.com/carlos-garciamoran/hermes): trading bot accesible through Telegram 🔔📈
 
 Outside of computers, I enjoy
 - 🌲 exploring nature
