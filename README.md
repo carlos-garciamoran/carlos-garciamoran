@@ -2,9 +2,9 @@
 
 I'm a curious guy who likes writing software. I use Next.js for building web and Expo for mobile.
 
-In my spare time, I build and maintain [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui). Inspired by shadcn/ui, we are crafting opinionated-yet-customizable components for React Native.
+In my spare time, I build and maintain [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui). Inspired by shadcn/ui, we are crafting React Native components.
 
-Some past projects include:
+Random past projects:
 - [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui): reusable UI components for SwiftUI apps
 - [SubletGo](https://subletgo.com): a platform aiming to make subletting easy & safe
 - [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973): app using media as a means to do good (part of The Concept Project)
