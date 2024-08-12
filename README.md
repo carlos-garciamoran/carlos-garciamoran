@@ -1,8 +1,6 @@
 ## Hi 👋
 
-I'm a curious guy who likes writing software. I use Next.js for building web and Expo for mobile.
-
-In my spare time, I build and maintain [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui). Inspired by shadcn/ui, we are crafting React Native components.
+In my spare time, I maintain [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui). Inspired by shadcn/ui, we are crafting extensible React Native components.
 
 Random past projects:
 - [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui): reusable UI components for SwiftUI apps
