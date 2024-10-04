@@ -1,15 +1,9 @@
-## Hi 👋
-
-In my spare time, I maintain [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui). Inspired by shadcn/ui, we are crafting extensible React Native components.
+In my spare time, I maintain [nativecn-ui](https://github.com/Mobilecn-UI/nativecn-ui).
 
 Random past projects:
 - [swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui): reusable UI components for SwiftUI apps
 - [SubletGo](https://subletgo.com): a platform aiming to make subletting easy & safe
-- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973): app using media as a means to do good (part of The Concept Project)
-- [CoLive](https://github.com/carlos-garciamoran/): browse sublets from Facebook housing groups
-- [TweetWidget](https://trytweetwidget.com): see tweets from your home screen
-- [Hermes](https://github.com/carlos-garciamoran/hermes): Go trading bot accesible through Telegram
-- [Delfos](https://github.com/carlos-garciamoran/delfos): Python trading bot using the Binance API
+- [CNCPT](https://apps.apple.com/us/app/cncpt/id1662094973): app using media as a means to do social good
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=carlos-garciamoran&show_icons=true&line_height=30&count_private=true&theme=dark" alt="Carlos' GitHub stats" />-->
 <!--<div align="center">
